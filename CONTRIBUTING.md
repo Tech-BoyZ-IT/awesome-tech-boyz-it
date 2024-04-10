@@ -7,7 +7,7 @@ Please read [the full text](https://github.com/italia-opensource/awesome-italia-
 ### Join our Community
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](ttps://t.me/eventitechmilano)
+[![Telegram](https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eventitechmilano)
 
 ## Issues
 
