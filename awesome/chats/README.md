@@ -11,4 +11,4 @@ Please read the [contribution guidelines](https://github.com/ech-BoyZ-IT/awesome
 
 ### Contributors
 
-<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
+<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Tech-BoyZ-IT/awesome-tech-boyz-it" /> </a>
