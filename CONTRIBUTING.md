@@ -16,3 +16,8 @@ We have three type of issues:
 1. Bug report
 2. Feature request
 2. Question
+
+
+@all-contributors
+please add @<username> for <contributions>. 
+please add @<username> for <contributions>.
